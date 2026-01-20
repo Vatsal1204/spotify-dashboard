@@ -1,0 +1,65 @@
+1. Project Overview
+
+# This project focuses on analyzing Spotify’s Top 50 World Songs dataset using Microsoft Power BI.
+The main purpose of this project is to transform raw music data into interactive, meaningful, and visually appealing dashboards that help understand global music trends, popular artists, and song characteristics.
+
+# The project uses real-world Spotify data and applies data analysis, visualization, and dashboard design concepts to present insights in a user-friendly manner.
+
+2. Aim of the Project
+
+# The aim of this project is to:
+
+# Analyze global Spotify Top 50 songs data Identify trends in popular music across the world .Understand which artists and songs perform best. Visualize song attributes like popularity, energy, danceability, and tempo . Build an interactive Power BI dashboard for decision-making and analysis
+
+3. Objectives
+
+The key objectives of this project are:
+# To clean and prepare Spotify music data for analysis
+# To create multiple report pages such as Home, Overview, Artists, and Songs
+# To design interactive visuals using filters and navigation
+# To improve storytelling through data visualization
+# To gain hands-on experience with Power BI tools and features
+
+4. Dataset Used
+
+Dataset Name: Spotify Top 50 World Songs
+Source: Spotify (CSV format)
+Content Includes:
+Song name
+Artist name
+Popularity score
+Audio features (energy, danceability, tempo, etc.)
+Ranking and position data
+This dataset represents real-world data and is suitable for analytical projects.
+
+5. Tools & Technologies Used
+
+# Microsoft Power BI
+# Data loading and transformation
+# Visualizations (charts, cards, tables)
+# Image-based navigation buttons
+# Filters and slicers
+# CSV Dataset
+# Basic Data Analysis Concepts
+
+6. Key Features of the Dashboard
+
+# Clean and modern Spotify-themed UI
+# Multiple pages with clear navigation
+# Visual representation of:
+# Top songs and artists
+# Popularity trends
+# Audio feature comparison
+# Use of images and icons for better user experience
+# Interactive elements for exploring data easily
+
+7. Learning Outcomes
+
+Through this project, I learned:
+
+How to work with real-world datasets, Data cleaning and preparation techniques, Dashboard design principles, Storytelling using data, Practical usage of Power BI for analytics, How to convert raw data into business insights.
+
+8. Conclusion
+
+This Spotify Power BI Dashboard project successfully demonstrates how music data can be analyzed and visualized to gain valuable insights.
+The project combines technical skills, data analysis, and creative dashboard design, making it both informative and visually engaging.
